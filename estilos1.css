@@ -1,0 +1,48 @@
+
+    
+    
+        .titulo{
+            background-color: black;
+            color: aliceblue;
+        }
+        .texto{
+            color: aliceblue;
+            background-color: black;
+            display: inline-block;
+
+        }
+        .topicos{
+            color: aliceblue;
+            background-color: black;
+            background-clip: padding-box;
+            display: inline-block;
+        
+        }
+        .rodape{
+            color: aliceblue;
+        }
+        .img{
+            transition: transform 1s ease-in-out
+        
+        }
+        .img:hover{
+            transform: rotate(360deg)
+        }
+        .minha-div {
+            background-image: url("https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+            background-size: 200%;
+            }
+        .guitartg510{
+            background-color: silver;
+            opacity: 0.7;
+            background-image:url(https://m.media-amazon.com/images/I/51b5ypkIe8L._AC_SL1000_.jpg);
+            background-size: 5%;
+            display:block;
+        }
+        .guitar{
+            background-color: silver;
+            opacity: 0.7;
+            background-image:url(https://http2.mlstatic.com/D_NQ_NP_955614-MLA47620579421_092021-O.webp);
+            background-size: 5%;
+            display: block;
+        }
